@@ -1,0 +1,53 @@
+{
+  "id": "0be9ecad-122e-4f8f-804d-71e5b04a5eba",
+  "title": "What types of mattresses are available?",
+  "created_at": "2026-03-25T20:25:58.158479+00:00",
+  "updated_at": "2026-03-25T20:26:50.888186+00:00",
+  "messages": [
+    {
+      "id": "6767de5e-ca22-4b99-85a0-203e68909836",
+      "role": "user",
+      "content": "What types of mattresses are available?",
+      "sources": [],
+      "timestamp": "2026-03-25T20:26:11.843558+00:00"
+    },
+    {
+      "id": "31d53cfa-4efa-4979-9422-1702340737fa",
+      "role": "assistant",
+      "content": "**Answer:**\n\nBased on the context provided, the main types of mattresses available include:\n\n1. **Innerspring Mattresses**: These are traditional mattresses utilizing metal coils for support. They come in forms such as Bonnell (hourglass-shaped), offset (flattened tops for contouring), and pocketed coils (individual springs that move independently). Pocketed coil mattresses are generally superior for minimizing motion transfer.\n\n2. **Memory Foam Mattresses**: These mattresses offer a firmer support, beneficial for side sleepers, and are good for other sleep positions as they help distribute weight evenly.\n\n3. **Hybrid Mattresses**: These combine an innerspring support system with one or more foam layers (memory foam, latex, polyfoam). This design aims to provide a balance between comfort and support.\n\n4. **Latex Mattresses**: These are considered eco-friendly and breathable. They are typically more durable and costlier, with pure natural latex being a popular choice, though they can be significantly more expensive.\n\nEach type of mattress has distinct characteristics and suitability depending on factors such as the person's sleep position, preferences, and lifestyle.",
+      "sources": [
+        {
+          "text": "purchase decision.\nInnerspring Mattresses Innerspring mattresses are the most traditional type, using a system of metal coils to provide\nsupport. They typically feature either Bonnell coils (hourglass...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 1,
+          "relevance_score": 0.8897
+        },
+        {
+          "text": "The Complete Mattress Buying Guide\nEverything You Need to Know Before Purchasing a Mattress\nChapter 1: Types of Mattresses\nChoosing the right mattress is one of the most important decisions for your s...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 1,
+          "relevance_score": 0.8875
+        },
+        {
+          "text": "or platform bed. Box springs are designed for innerspring mattresses; foam and hybrid mattresses generally work best on a platform\nbase or adjustable frame.\n7. Certifications to look for: CertiPUR-US ...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 7,
+          "relevance_score": 0.8728
+        },
+        {
+          "text": "sinking. Stomach sleepers need firmer mattresses to prevent their hips from sinking too deep, which can strain the lower back.\nChapter 3: Best Mattresses by Sleeping Position\nSide Sleepers\nSide sleepi...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 3,
+          "relevance_score": 0.8585
+        },
+        {
+          "text": "is also one of the most eco-friendly mattress materials available. Latex mattresses are among the most durable, typically lasting 12-20\nyears. They are also naturally breathable, sleeping cooler than ...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 2,
+          "relevance_score": 0.8567
+        }
+      ],
+      "timestamp": "2026-03-25T20:26:50.888186+00:00"
+    }
+  ]
+}

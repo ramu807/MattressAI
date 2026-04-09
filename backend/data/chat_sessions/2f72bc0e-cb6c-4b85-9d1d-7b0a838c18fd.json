@@ -1,0 +1,53 @@
+{
+  "id": "2f72bc0e-cb6c-4b85-9d1d-7b0a838c18fd",
+  "title": "What type of mattress is best for back pain?",
+  "created_at": "2026-03-25T21:07:22.504839+00:00",
+  "updated_at": "2026-03-25T21:07:54.380462+00:00",
+  "messages": [
+    {
+      "id": "93fba724-cc9c-4497-8c4e-1001a80b164f",
+      "role": "user",
+      "content": "What type of mattress is best for back pain?",
+      "sources": [],
+      "timestamp": "2026-03-25T21:07:22.515096+00:00"
+    },
+    {
+      "id": "ed221c4f-aee4-44ce-8bb7-137ac7afb3c3",
+      "role": "assistant",
+      "content": "**Answer:**\n\nMedium-firm mattresses, particularly zoned support systems, are best for back pain. These mattresses are ideal for back sleepers as they provide proper spinal alignment, supporting the natural curvature of the spine without creating pressure points. They are also recommended by orthopedic specialists for reducing back pain. The firmness of these mattresses is crucial, avoiding too soft or firm options that may cause a U-shape under the spine or hyperextend the lower back. This makes them suitable for various sleepers, including those who find back pain or stomach sleepers benefit from the firmness required to avoid pelvis sinking too deeply.",
+      "sources": [
+        {
+          "text": "5: Health and Medical Considerations\nBack Pain For chronic back pain, research consistently shows that medium-firm mattresses provide the\nbest outcomes. A 2015 study published in the journal Sleep Hea...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 5,
+          "relevance_score": 0.9171
+        },
+        {
+          "text": "Back sleepers need a mattress that supports the natural curvature of the spine, particularly\nthe lumbar region. Medium to medium-firm mattresses are typically ideal. The mattress should\nbe firm enough...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 4,
+          "relevance_score": 0.8996
+        },
+        {
+          "text": " foam and hybrid mattresses with zoned support are often recommended by orthopedic specialists. If you have lower back pain, avoid mattresses\nthat are too soft, as they can cause the hips to sink and ...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 5,
+          "relevance_score": 0.8951
+        },
+        {
+          "text": "deeply, which would hyperextend the lower back. Thin, firm mattresses with minimal cushioning on top work best. Avoid thick pillow-top\nmattresses and soft memory foam, as these allow too much sinking....",
+          "source": "mattress_buying_guide.pdf",
+          "page": 4,
+          "relevance_score": 0.8913
+        },
+        {
+          "text": "for back sleepers. Zoned support systems, which use firmer foam under the hips and softer foam under the shoulders, can be particularly\nbeneficial for back sleepers.\nStomach Sleepers\nStomach sleeping ...",
+          "source": "mattress_buying_guide.pdf",
+          "page": 4,
+          "relevance_score": 0.8879
+        }
+      ],
+      "timestamp": "2026-03-25T21:07:54.380462+00:00"
+    }
+  ]
+}
